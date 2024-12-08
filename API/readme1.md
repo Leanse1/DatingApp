@@ -12,6 +12,10 @@ ctrl + P; >sqlite open database; new dbexplorer created outside;
 
 
 
+angular new client
+
+
+
 
 
 
